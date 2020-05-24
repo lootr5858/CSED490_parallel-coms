@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Assignment_1_SharedMem",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-reverseArray_multiblock_fast",
+      "appliesTo": "reverseArray_multiblock_fast.cu",
+      "type": "launch"
+    }
+  ]
+}
